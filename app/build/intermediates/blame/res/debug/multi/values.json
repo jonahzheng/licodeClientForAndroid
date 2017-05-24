@@ -1,0 +1,258 @@
+[
+    {
+        "outputFile": "C:\\Users\\95\\AndroidStudioProjects\\licodeAndroidClient-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\95\\AndroidStudioProjects\\licodeAndroidClient-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\95\\AndroidStudioProjects\\licodeAndroidClient-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 60,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "C:\\Users\\95\\AndroidStudioProjects\\licodeAndroidClient-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 60,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endColumn": 55,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "C:\\Users\\95\\AndroidStudioProjects\\licodeAndroidClient-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 55,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 52,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "C:\\Users\\95\\AndroidStudioProjects\\licodeAndroidClient-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 52,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 55,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\95\\AndroidStudioProjects\\licodeAndroidClient-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 52,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "C:\\Users\\95\\AndroidStudioProjects\\licodeAndroidClient-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 52,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 90,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "C:\\Users\\95\\AndroidStudioProjects\\licodeAndroidClient-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 90,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 68,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "C:\\Users\\95\\AndroidStudioProjects\\licodeAndroidClient-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endColumn": 68,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 55,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "C:\\Users\\95\\AndroidStudioProjects\\licodeAndroidClient-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 55,
+                        "endOffset": 546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 664,
+                    "endColumn": 53,
+                    "endOffset": 713
+                },
+                "from": {
+                    "file": "C:\\Users\\95\\AndroidStudioProjects\\licodeAndroidClient-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 551,
+                        "endColumn": 53,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 718,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1004
+                },
+                "from": {
+                    "file": "C:\\Users\\95\\AndroidStudioProjects\\licodeAndroidClient-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1009,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1164
+                },
+                "from": {
+                    "file": "C:\\Users\\95\\AndroidStudioProjects\\licodeAndroidClient-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

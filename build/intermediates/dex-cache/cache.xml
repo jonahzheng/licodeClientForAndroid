@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\95\AndroidStudioProjects\licodeAndroidClient-master\app\libs\libjingle_peerconnection.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a077e29ad4c2b43bf3440aaa818346328f449296">
+        <dex dex="C:\Users\95\AndroidStudioProjects\licodeAndroidClient-master\app\build\intermediates\pre-dexed\debug\libjingle_peerconnection_b1eb3502b831caf0012de5ec656aba035ee53601.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\95\AndroidStudioProjects\licodeAndroidClient-master\app\libs\androidasync-1.2.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7937385823398979dd9dabcc3a3938e97df167cf">
+        <dex dex="C:\Users\95\AndroidStudioProjects\licodeAndroidClient-master\app\build\intermediates\pre-dexed\debug\androidasync-1.2.6_679d7d500c4446b35e3c1b8144f60f337d7533ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PlatformSDKs\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\95\AndroidStudioProjects\licodeAndroidClient-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_3d3114ece65ad34c07057e840f57070a581d22b8.jar" />
+    </item>
+
+</items>
